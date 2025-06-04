@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Vacances à Trapani, Sicile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #e0f7fa;
+      color: #333;
+      text-align: center;
+      padding: 20px;
+    }
+    header {
+      background-color: #009688;
+      color: white;
+      padding: 20px;
+      border-radius: 15px;
+    }
+    img {
+      width: 80%;
+      max-width: 600px;
+      border-radius: 10px;
+      margin: 20px 0;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    section {
+      background-color: #ffffff;
+      padding: 20px;
+      margin: 20px auto;
+      width: 90%;
+      max-width: 800px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bienvenue à Trapani 🇮🇹</h1>
+    <p>Un joyau en bord de mer, au cœur de la Sicile</p>
+  </header>
+
+  <!-- Image de Trapani -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Trapani_Panorama.jpg" alt="Trapani, Sicile">
+
+  <!-- Image de la Sicile (vue générale) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Scala_dei_Turchi%2C_Sicily%2C_Italy.jpg" alt="Sicile - Scala dei Turchi">
+
+  <section>
+    <h2>Pourquoi visiter Trapani ?</h2>
+    <p>Trapani est une charmante ville côtière située à l'ouest de la Sicile. Connue pour ses plages magnifiques, ses salines scintillantes et son centre historique, c’est une destination parfaite pour des vacances ensoleillées !</p>
+  </section>
+
+  <section>
+    <h2>À ne pas manquer</h2>
+    <ul style="text-align: left; display: inline-block;">
+      <li>Les salines de Nubie 🌅</li>
+      <li>Le centre historique de Trapani 🏛️</li>
+      <li>La montée au village médiéval d’Erice 🏰</li>
+      <li>Les îles Égades accessibles en bateau ⛵</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Meilleure période pour partir</h2>
+    <p>Le printemps (avril-juin) et l’automne (septembre-octobre) offrent un climat doux, idéal pour explorer la région sans la foule.</p>
+  </section>
+
+  <footer>
+    <p>Créé avec ❤️ – 2025</p>
+  </footer>
+
+</body>
+</html>
